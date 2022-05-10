@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "955016282278",
+    "project_id": "tresorerie-50dc9",
+    "storage_bucket": "tresorerie-50dc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955016282278:android:e770dcb3e46d4017afb467",
+        "android_client_info": {
+          "package_name": "com.example.tresorerie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955016282278-r7houvslgbi18l1hd62j714lf3n9pnq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tresorerie",
+            "certificate_hash": "16f16b74fb9d71d9cd2e453a9bf0da72b15b00e4"
+          }
+        },
+        {
+          "client_id": "955016282278-7vh17b9l6g38quahu55q7qoo3dirlpi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcC-gBy28-uzB3bHp5oTjWpw4JbdeXfGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955016282278-7vh17b9l6g38quahu55q7qoo3dirlpi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
