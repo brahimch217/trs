@@ -10,7 +10,7 @@ import '../services/api.dart';
 class ChatsPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) => Scaffold(
-        backgroundColor: Colors.blue,
+        backgroundColor: Color.fromARGB(244, 241, 161, 11),
         body: SafeArea(
           child: StreamBuilder<List<User>>(
             stream: FirebaseApi.getUsers(),

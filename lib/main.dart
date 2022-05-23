@@ -9,7 +9,12 @@ import 'package:tresorerie/theme.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
+  await Firebase.initializeApp(
+      options: FirebaseOptions(
+          apiKey: "AIzaSyAQl58cBglJkCwtDwXe4rvV_zzAwpsL7sI",
+          appId: "1:955016282278:web:74c84bdf7387f845afb467",
+          messagingSenderId: "955016282278",
+          projectId: "tresorerie-50dc9"));
   runApp(MyApp());
 }
 
